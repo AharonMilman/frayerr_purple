@@ -51,5 +51,5 @@ http.listen(port, () => {
     logger.info('Server is running on port: ' + port)
 })
 
-// to add this line to the npm script in the package.json when development and before uploading to heroku need to remove it
+// to add this line to the npm script in the package.json when development and before uploading to heroku/render need to remove it
 // "start": "set NODE_ENV=development&&nodemon server.js",
