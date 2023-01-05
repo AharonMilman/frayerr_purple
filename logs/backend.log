@@ -370,3 +370,70 @@
 9.10.2022, 3:49:25 - DEBUG - Getting categories 
 23.12.2022, 16:11:33 - INFO - Server is running on port: 3030 
 23.12.2022, 16:12:19 - DEBUG - Getting Gigs 
+5.1.2023, 0:13:45 - INFO - Server is running on port: 3030 
+5.1.2023, 0:14:02 - INFO - New connected socket [id: flXO-t-FzW_xvBbNAAAB] 
+5.1.2023, 0:14:02 - DEBUG - Getting categories 
+5.1.2023, 0:25:52 - INFO - Socket disconnected [id: undefined] 
+5.1.2023, 0:25:53 - INFO - New connected socket [id: Zc0Y_BgKor761v-rAAAD] 
+5.1.2023, 0:25:53 - DEBUG - Getting categories 
+5.1.2023, 17:33:40 - INFO - Server is running on port: 3030 
+5.1.2023, 17:34:13 - INFO - New connected socket [id: OMNUWJt7nu03Z3d6AAAB] 
+5.1.2023, 17:34:13 - DEBUG - Getting categories 
+5.1.2023, 17:34:25 - DEBUG - Getting Gigs 
+5.1.2023, 19:17:56 - INFO - Server is running on port: 3030 
+5.1.2023, 19:18:24 - INFO - New connected socket [id: MPq8JM1ro-2R0llgAAAB] 
+5.1.2023, 19:18:25 - DEBUG - Getting categories 
+5.1.2023, 19:18:31 - INFO - Socket disconnected [id: undefined] 
+5.1.2023, 19:18:34 - INFO - New connected socket [id: EyG3NGdYIN4YUT1jAAAD] 
+5.1.2023, 19:18:34 - DEBUG - Getting categories 
+5.1.2023, 20:32:12 - INFO - Socket disconnected [id: undefined] 
+5.1.2023, 20:56:50 - INFO - New connected socket [id: H3fXG2LrHbz8rkp9AAAF] 
+5.1.2023, 21:19:46 - INFO - Socket disconnected [id: undefined] 
+5.1.2023, 21:19:47 - INFO - New connected socket [id: DI2mNETPS1TQCNN9AAAH] 
+5.1.2023, 21:19:47 - DEBUG - Getting categories 
+5.1.2023, 21:32:28 - DEBUG - auth.service - login with username: a 
+5.1.2023, 21:32:29 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+5.1.2023, 21:32:29 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: DI2mNETPS1TQCNN9AAAH] 
+5.1.2023, 21:32:29 - DEBUG - auth.service - login with username: a 
+5.1.2023, 21:32:29 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+5.1.2023, 21:32:29 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: DI2mNETPS1TQCNN9AAAH] 
+5.1.2023, 21:32:41 - INFO - User loggedout successfully 
+5.1.2023, 21:32:41 - INFO - Removing socket.userId for socket [id: DI2mNETPS1TQCNN9AAAH] 
+5.1.2023, 21:45:14 - INFO - Socket disconnected [id: undefined] 
+5.1.2023, 21:53:07 - INFO - New connected socket [id: IW8ydoEijpBeud1MAAAJ] 
+5.1.2023, 22:04:49 - INFO - Socket disconnected [id: undefined] 
+5.1.2023, 22:04:50 - INFO - New connected socket [id: nLOt-LgD-zZ1XiD6AAAL] 
+5.1.2023, 22:04:50 - DEBUG - Getting categories 
+5.1.2023, 22:06:21 - INFO - Socket disconnected [id: undefined] 
+5.1.2023, 22:06:24 - INFO - New connected socket [id: CnCmT21cEoHS7VLwAAAN] 
+5.1.2023, 22:06:25 - DEBUG - Getting categories 
+5.1.2023, 22:08:33 - INFO - Socket disconnected [id: undefined] 
+5.1.2023, 22:34:42 - INFO - New connected socket [id: YUdufi_hydPR5sASAAAP] 
+5.1.2023, 22:52:21 - DEBUG - auth.service - login with username: a 
+5.1.2023, 22:52:22 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+5.1.2023, 22:52:22 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: YUdufi_hydPR5sASAAAP] 
+5.1.2023, 22:52:22 - DEBUG - auth.service - login with username: a 
+5.1.2023, 22:52:22 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+5.1.2023, 22:52:22 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: YUdufi_hydPR5sASAAAP] 
+5.1.2023, 22:55:13 - INFO - Socket disconnected [id: undefined] 
+5.1.2023, 22:55:14 - INFO - New connected socket [id: do5kbm2jNUvAbqvJAAAR] 
+5.1.2023, 22:55:15 - DEBUG - Getting categories 
+5.1.2023, 22:55:15 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: do5kbm2jNUvAbqvJAAAR] 
+5.1.2023, 22:56:08 - INFO - User loggedout successfully 
+5.1.2023, 22:56:08 - INFO - Removing socket.userId for socket [id: do5kbm2jNUvAbqvJAAAR] 
+5.1.2023, 22:57:16 - DEBUG - auth.service - login with username: a 
+5.1.2023, 22:57:16 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+5.1.2023, 22:57:16 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: do5kbm2jNUvAbqvJAAAR] 
+5.1.2023, 22:57:16 - DEBUG - auth.service - login with username: a 
+5.1.2023, 22:57:16 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+5.1.2023, 22:57:16 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: do5kbm2jNUvAbqvJAAAR] 
+5.1.2023, 23:00:07 - INFO - User loggedout successfully 
+5.1.2023, 23:00:07 - INFO - Removing socket.userId for socket [id: do5kbm2jNUvAbqvJAAAR] 
+5.1.2023, 23:00:19 - DEBUG - auth.service - login with username: a 
+5.1.2023, 23:00:19 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+5.1.2023, 23:00:19 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: do5kbm2jNUvAbqvJAAAR] 
+5.1.2023, 23:00:19 - DEBUG - auth.service - login with username: a 
+5.1.2023, 23:00:19 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+5.1.2023, 23:00:19 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: do5kbm2jNUvAbqvJAAAR] 
+5.1.2023, 23:00:31 - INFO - User loggedout successfully 
+5.1.2023, 23:00:31 - INFO - Removing socket.userId for socket [id: do5kbm2jNUvAbqvJAAAR] 
