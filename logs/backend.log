@@ -437,3 +437,93 @@
 5.1.2023, 23:00:19 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: do5kbm2jNUvAbqvJAAAR] 
 5.1.2023, 23:00:31 - INFO - User loggedout successfully 
 5.1.2023, 23:00:31 - INFO - Removing socket.userId for socket [id: do5kbm2jNUvAbqvJAAAR] 
+6.1.2023, 17:12:41 - INFO - Server is running on port: 3030 
+6.1.2023, 17:13:39 - INFO - New connected socket [id: UiTOOM5xkdnoW0bgAAAB] 
+6.1.2023, 17:13:39 - DEBUG - Getting categories 
+6.1.2023, 17:14:18 - INFO - Socket disconnected [id: undefined] 
+6.1.2023, 17:14:19 - INFO - New connected socket [id: IgAvtu5M38k22CsoAAAD] 
+6.1.2023, 17:14:19 - DEBUG - Getting categories 
+6.1.2023, 17:15:05 - INFO - Socket disconnected [id: undefined] 
+6.1.2023, 17:15:06 - INFO - New connected socket [id: aPBe5fdrmNmjYa3eAAAF] 
+6.1.2023, 17:15:06 - DEBUG - Getting categories 
+6.1.2023, 17:32:00 - INFO - Socket disconnected [id: undefined] 
+6.1.2023, 17:33:35 - INFO - New connected socket [id: Xtd1p8P21yGWxfKlAAAH] 
+6.1.2023, 19:29:58 - INFO - Socket disconnected [id: undefined] 
+6.1.2023, 20:26:54 - INFO - New connected socket [id: 8m-MKPv8gfYfXAWDAAAJ] 
+6.1.2023, 20:29:33 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 0:31:28 - INFO - New connected socket [id: oOO6IgBNbBVewow6AAAL] 
+7.1.2023, 0:48:33 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 9:43:23 - INFO - New connected socket [id: I7Inq5neZhQb9cNCAAAN] 
+7.1.2023, 10:16:48 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 10:16:49 - INFO - New connected socket [id: mrjZMVjpz9KrIp6mAAAP] 
+7.1.2023, 10:16:49 - DEBUG - Getting categories 
+7.1.2023, 10:24:06 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 10:24:13 - INFO - New connected socket [id: D43R9_Kx3LJoGeReAAAR] 
+7.1.2023, 10:24:15 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 10:24:16 - INFO - New connected socket [id: iuuom6vMc6eXaEukAAAT] 
+7.1.2023, 10:24:20 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 10:24:21 - DEBUG - Getting categories 
+7.1.2023, 10:24:21 - INFO - New connected socket [id: y_PmMiEDp0SnhlL3AAAV] 
+7.1.2023, 10:24:57 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 10:24:58 - INFO - New connected socket [id: wGr8XY1AlrIFBNG5AAAX] 
+7.1.2023, 10:24:58 - DEBUG - Getting categories 
+7.1.2023, 10:28:08 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 10:28:09 - INFO - New connected socket [id: xLXW6tx-XKBRnsznAAAZ] 
+7.1.2023, 10:28:10 - DEBUG - Getting categories 
+7.1.2023, 11:05:19 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 12:41:23 - INFO - New connected socket [id: e2C7Q31JxmT3RDloAAAb] 
+7.1.2023, 13:53:50 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 13:53:51 - INFO - New connected socket [id: xCOiMIktFIK0ZrEBAAAd] 
+7.1.2023, 13:53:51 - DEBUG - Getting categories 
+7.1.2023, 13:55:59 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 13:56:00 - INFO - New connected socket [id: SlKcMuWxGZaliwPRAAAf] 
+7.1.2023, 13:56:00 - DEBUG - Getting categories 
+7.1.2023, 13:56:07 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 13:56:09 - INFO - New connected socket [id: rmHdaPs0-LUearTqAAAh] 
+7.1.2023, 13:56:09 - DEBUG - Getting categories 
+7.1.2023, 13:58:13 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 13:58:14 - INFO - New connected socket [id: S8UiVy5pq2pll9aAAAAj] 
+7.1.2023, 13:58:14 - DEBUG - Getting categories 
+7.1.2023, 14:03:04 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 14:03:05 - INFO - New connected socket [id: Dt_PMuTyiwBecESqAAAl] 
+7.1.2023, 14:03:05 - DEBUG - Getting categories 
+7.1.2023, 14:06:33 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 14:06:34 - INFO - New connected socket [id: 4kQaQUgaMx7w0L5jAAAn] 
+7.1.2023, 14:06:34 - DEBUG - Getting categories 
+7.1.2023, 14:19:54 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 14:19:55 - INFO - New connected socket [id: ye0Zeb4T9pRpa_MjAAAp] 
+7.1.2023, 14:19:55 - DEBUG - Getting categories 
+7.1.2023, 14:20:03 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 14:20:04 - INFO - New connected socket [id: cOibA-R-3IZV0HC2AAAr] 
+7.1.2023, 14:20:04 - DEBUG - Getting categories 
+7.1.2023, 14:20:14 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 14:20:15 - INFO - New connected socket [id: s2HNAfqfAS7i22AfAAAt] 
+7.1.2023, 14:20:15 - DEBUG - Getting categories 
+7.1.2023, 14:23:56 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 14:23:57 - INFO - New connected socket [id: oIwsTgZdvZpvKsagAAAv] 
+7.1.2023, 14:23:58 - DEBUG - Getting categories 
+7.1.2023, 14:27:47 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 18:16:44 - INFO - New connected socket [id: cOzWhB-WAeGPlXiHAAAx] 
+7.1.2023, 18:57:32 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 19:36:00 - INFO - New connected socket [id: DsegpGYzWMTORMKpAAAz] 
+7.1.2023, 19:42:46 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 19:42:47 - INFO - New connected socket [id: hlI0kggvbE9cVlV9AAA1] 
+7.1.2023, 19:42:47 - DEBUG - Getting categories 
+7.1.2023, 19:43:09 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 19:43:10 - INFO - New connected socket [id: 5FoUc76lDsmyBscsAAA3] 
+7.1.2023, 19:43:11 - DEBUG - Getting categories 
+7.1.2023, 19:44:46 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 19:44:47 - INFO - New connected socket [id: FbNYSc4Fo0lm8T2aAAA5] 
+7.1.2023, 19:44:47 - DEBUG - Getting categories 
+7.1.2023, 19:46:49 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 19:46:50 - INFO - New connected socket [id: 4xg01dHnZ_5JI4i_AAA7] 
+7.1.2023, 19:46:50 - DEBUG - Getting categories 
+7.1.2023, 19:54:10 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 19:54:13 - DEBUG - Getting categories 
+7.1.2023, 19:54:13 - INFO - New connected socket [id: YQYGXpVr2mL-myZPAAA9] 
+7.1.2023, 20:02:34 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 20:02:53 - INFO - New connected socket [id: FmK0nyGguQs9wn9oAAA_] 
+7.1.2023, 21:08:15 - INFO - Socket disconnected [id: undefined] 
+7.1.2023, 21:13:45 - INFO - New connected socket [id: iMHbrlbQ4Jlu6unJAABB] 
+7.1.2023, 21:23:20 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 8:39:41 - INFO - New connected socket [id: _WoR_WLjFboID6XxAABD] 
