@@ -37,13 +37,13 @@ async function getById(userId) {
         const collection = await dbService.getCollection('user')
         const user = await collection.findOne({ _id: ObjectId(userId) })
         delete user.password
-
+        // user.createdAt = ObjectId(user._id).getTimestamp()
         user.givenReviews = await reviewService.query({ byUserId: ObjectId(user._id) })
         user.givenReviews = user.givenReviews.map(review => {
             delete review.byUser
             return review
         })
-
+        // logger.info(`user: ${JSON.stringify(user)}`)
         return user
     } catch (err) {
         logger.error(`while finding user by id: ${userId}`, err)
@@ -125,7 +125,3 @@ function _buildCriteria(filterBy) {
     }
     return criteria
 }
-
-
-
-
