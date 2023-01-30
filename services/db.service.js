@@ -9,7 +9,7 @@ module.exports = {
 // Database Name 
 const dbName = 'frayerr_db'
 // username:frayer pass:frayer1234
-const uri = "mongodb+srv://frayer:frayer1234@cluster0.wqcojpa.mongodb.net/?retryWrites=true&w=majority"
+const uri = 'mongodb+srv://frayer:frayer1234@cluster0.wqcojpa.mongodb.net/?retryWrites=true&w=majority'
 
 var dbConn = null
 
@@ -31,7 +31,7 @@ async function connect() {
         const client = await MongoClient.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
 
         // Make the appropriate DB calls
-        // await  listDatabases(client);
+        // await  listDatabases(client)
 
         const db = client.db(dbName)
         dbConn = db
@@ -43,12 +43,8 @@ async function connect() {
 }
 
 async function listDatabases(client){
-    databasesList = await client.db().admin().listDatabases();
+    databasesList = await client.db().admin().listDatabases()
  
-    console.log("Databases:");
-    databasesList.databases.forEach(db => console.log(` - ${db.name}`));
+    console.log('Databases:')
+    databasesList.databases.forEach(db => console.log(` - ${db.name}`))
 }
-
-
-
-
